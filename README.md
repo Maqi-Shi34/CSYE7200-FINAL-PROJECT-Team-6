@@ -1,5 +1,7 @@
-# CSYE7200-FINAL-PROJECT-Team-6
+### CSYE7200-FINAL-PROJECT-Team-6
 
-# Team Member:
-Yue Liu
-Maqi Shi
+## Stroke Prediction
+
+## Team Member:
+#Yue Liu
+#Maqi Shi
